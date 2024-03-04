@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nicolascevallosb/ToDoMachine.git/static/css/main.53cc1e5b.css",
-    "main.js": "/nicolascevallosb/ToDoMachine.git/static/js/main.1b641201.js",
-    "index.html": "/nicolascevallosb/ToDoMachine.git/index.html",
-    "main.53cc1e5b.css.map": "/nicolascevallosb/ToDoMachine.git/static/css/main.53cc1e5b.css.map",
-    "main.1b641201.js.map": "/nicolascevallosb/ToDoMachine.git/static/js/main.1b641201.js.map"
+    "main.css": "/ToDoMachine/static/css/main.53cc1e5b.css",
+    "main.js": "/ToDoMachine/static/js/main.1b641201.js",
+    "index.html": "/ToDoMachine/index.html",
+    "main.53cc1e5b.css.map": "/ToDoMachine/static/css/main.53cc1e5b.css.map",
+    "main.1b641201.js.map": "/ToDoMachine/static/js/main.1b641201.js.map"
   },
   "entrypoints": [
     "static/css/main.53cc1e5b.css",
