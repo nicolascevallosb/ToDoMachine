@@ -1,0 +1,24 @@
+.search {
+    background: lightcyan;
+    border-radius: 5px;
+    border: 2px solid lightsteelblue;
+    margin: 0 24px;
+    height: 64px;
+    width: calc(100% - 62px);
+    font-size: 24px;
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: black;
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.25);
+}
+
+.search::placeholder {
+    color: lightsteelblue;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+}
+
+.search:focus {
+    outline-color: steelblue;
+}
